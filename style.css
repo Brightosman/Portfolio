@@ -382,14 +382,24 @@ section .title::after{
     width: 75%;
 }
 .skills-content .right .php::before{
-    width: 30%;
+    width: 65%;
 }
-.skills-content .right .sql::before{
+.skills-content .right .pssql::before{
     width: 70%;
 }
 
 .skills-content .right .ReactJS::before{
     width: 90%;
+}
+.skills-content .right .symfony::before{
+    width: 80%;
+}
+.skills-content .right .node::before{
+    width: 80%;
+}
+
+.skills-content .right .bootstrap::before{
+    width: 75%;
 }
 .skills-content .right .ASPNET::before{
     width: 85%;
@@ -401,7 +411,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .mysql::before{
-    width: 40%;
+    width: 75%;
 }
 .skills-content .right .python::before{
     width: 80%;
