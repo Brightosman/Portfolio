@@ -86,7 +86,6 @@ section .title::after{
 
 /* Navbar*/
 .navbar{
-    position: fixed;
     background-color: goldenrod;
     width: 100%;
     font-family: 'Montserrat', sans-serif;
